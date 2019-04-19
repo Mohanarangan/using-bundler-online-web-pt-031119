@@ -4,7 +4,7 @@ gem "sinatra"
 
 gem 'mail', '~> 2.6', '>= 2.6.3'
 
-gem 
+gem 'Hashie'
  
 group :development do
 gem "pry"
