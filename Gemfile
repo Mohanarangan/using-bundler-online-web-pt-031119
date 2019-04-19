@@ -2,7 +2,7 @@ source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
 gem "Hashie"
-gem "sinatra"
+gem "Sinatra"
 
 #gem 'mail', '~> 2.6', '>= 2.6.3'
 
