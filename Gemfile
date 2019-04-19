@@ -6,8 +6,6 @@ gem "sinatra", '1.4.4'
 gem 'octokit' '~> 2.0'
 
 
-#gem 'mail', '~> 2.6', '>= 2.6.3'
-
 group :development do
 gem "pry"
 end
