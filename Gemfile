@@ -10,6 +10,6 @@ group :development do
 gem "pry"
 end
 
-group :test grou[] do
+group :test group do
 gem "rspec"
 end
